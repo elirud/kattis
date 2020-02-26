@@ -1,0 +1,1 @@
+(lambda l: print(2 * l[1] - l[0]))(list(map(int, input().split())))
